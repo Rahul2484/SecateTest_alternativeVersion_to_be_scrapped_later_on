@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-917ead9695fabd744122e7a66ebbd1cada76e3fb.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-d3a927f4e12ddb8f830708ae1836772eefbd46ba.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-49fc8cf5fadc485c8f6add609657ac25933da925.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-2f944748599b5cd6d51f0790ebedf510d9bef470.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-f701419d8210faa7fc0caa42c5e1aa917152e8ed.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-12801f762b3266cc8081d71613100237cccde358.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-1adcc9e776eaca334fc1e8010263898b4db72fa4.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-334510fb643a229e5824e3133706dca9d5da6b02.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-581b66bfd9b541853bca34350c943296a972bb05.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-b8e82c1890c9be210783aad44d39e4dc097328a7.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-f3bfe19a6e6f735901813bf2ca1ae48d5bc06d76.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-33a11e194227b286abdbcd1203e23a2fe7f51592.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-fb8e922da3b53ebb8683426ff72b69f7f6945ec5.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-5597115fd2582f6b746c8cb003758655dd677cc1.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-9f74bba972ec576828891c663f001cd5c2924191.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-318505ddaa280f6dffe496cbbd2c114e10fdd99f.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-78c750ee4391527887b5629c3b899603e239a8ce.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-902802331bea167ecd7c7d80c98e1cac78834fd7.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-ccd0ca80c13c81177dd8516c5fc198da11b5686f.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-3946d6a8b183efed5c6d23a9a84a002929f2051e.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-2c0906c995d3524ce122cc9c31adc54a58c4fde3.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-f89a855e8fbc922d4e5297d99c2e3d929efdb58c.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-49ed25597d78d7789135c60629e2527b4dc60e6c.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-05762923338727560eccafba0c079b5f31150a2a.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-2cb07296037f3f3d1997f5bfa1a49cb3106c3353.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-1a8eea8f42733a89eab880a56ccf6fc771c96a27.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-3564b2a8f8c7555cab32bb399c46177c1e5138fa.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/classes-9673d810c7a7b1cf2e49bf18338f3a30be47dbbd.jar" />
+    </item>
+    <item
+        jar="/home/kartik/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/kartik/Desktop/barcode-reader-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-c3b3205cfbe9d766f00f053e1235a5b337441c87.jar" />
+    </item>
+
+</items>
