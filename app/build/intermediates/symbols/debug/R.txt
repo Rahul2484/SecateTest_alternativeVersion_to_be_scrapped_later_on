@@ -698,7 +698,6 @@ int id barcode_value 0x7f0c0086
 int id beginning 0x7f0c0030
 int id book_now 0x7f0c0048
 int id bottom 0x7f0c001b
-int id button 0x7f0c0093
 int id buttonPanel 0x7f0c0068
 int id buttons 0x7f0c00a0
 int id buyButton 0x7f0c0045
@@ -724,11 +723,12 @@ int id customPanel 0x7f0c0066
 int id decor_content_parent 0x7f0c0070
 int id default_activity_button 0x7f0c005b
 int id default_control_frame 0x7f0c0099
+int id destinationButton 0x7f0c0093
+int id destinationEditText 0x7f0c0092
 int id disableHome 0x7f0c000e
 int id disconnect 0x7f0c00a1
 int id donate_with 0x7f0c004c
 int id donate_with_google 0x7f0c004d
-int id editText 0x7f0c0092
 int id edit_query 0x7f0c0074
 int id end 0x7f0c001f
 int id end_padder 0x7f0c00af

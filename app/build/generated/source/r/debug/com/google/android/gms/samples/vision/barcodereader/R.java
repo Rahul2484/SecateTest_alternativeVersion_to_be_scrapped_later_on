@@ -2619,7 +2619,6 @@ containing a value of this type.
         public static final int beginning=0x7f0c0030;
         public static final int book_now=0x7f0c0048;
         public static final int bottom=0x7f0c001b;
-        public static final int button=0x7f0c0093;
         public static final int buttonPanel=0x7f0c0068;
         public static final int buttons=0x7f0c00a0;
         public static final int buyButton=0x7f0c0045;
@@ -2645,11 +2644,12 @@ containing a value of this type.
         public static final int decor_content_parent=0x7f0c0070;
         public static final int default_activity_button=0x7f0c005b;
         public static final int default_control_frame=0x7f0c0099;
+        public static final int destinationButton=0x7f0c0093;
+        public static final int destinationEditText=0x7f0c0092;
         public static final int disableHome=0x7f0c000e;
         public static final int disconnect=0x7f0c00a1;
         public static final int donate_with=0x7f0c004c;
         public static final int donate_with_google=0x7f0c004d;
-        public static final int editText=0x7f0c0092;
         public static final int edit_query=0x7f0c0074;
         public static final int end=0x7f0c001f;
         public static final int end_padder=0x7f0c00af;
